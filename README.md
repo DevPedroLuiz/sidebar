@@ -27,9 +27,19 @@ Sidebar responsivo e recolhível desenvolvido para sistemas web modernos. Ideal 
 
 ```
 sidebar/
+├── .github/
+│   └── workflows/
+│       ├── jekyll-gh-pages.yml
+│       └── static.yml
+├── src/
+│   ├── css/
+│   │   └── styles.css
+│   └── images/
+│       └── avatar.jpg
+├── javascript/
+│   └── script.js
+├── README.md
 ├── index.html
-├── style.css
-├── script.js
 └── preview.png
 ```
 
