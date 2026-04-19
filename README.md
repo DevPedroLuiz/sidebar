@@ -22,6 +22,7 @@ Sidebar responsivo e recolhível desenvolvido para sistemas web modernos. Ideal 
 - **HTML5** — estrutura semântica
 - **CSS3** — estilização e animações
 - **JavaScript** — interatividade e toggle do sidebar
+- **Font Awesome 6** — ícones
 
 ## 📁 Estrutura
 
